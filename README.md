@@ -1,5 +1,7 @@
 # installnginx
-install.sh
+ubah permision menjandi 755 atau bisa menambahan dengan chmod +x
+runing the scrip ./(nama_script)
+1. install.sh
 
 #install mngoDB
-install_mongoDB.sh
+2. install_mongoDB.sh
